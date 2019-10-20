@@ -1,1 +1,1 @@
-This is the 2d implementation of the Golfie game.
+This is the 2d implementation of the GOLFIE.
