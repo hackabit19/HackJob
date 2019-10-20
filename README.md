@@ -2,7 +2,7 @@
 
 Title: Golfie
 
-Idea is to build a simulation game, based on the game of golf. And to use a normal selfie stick with a mobile phone attached at the end as a golf club, so as to give a realistic experience of playing actual golf. The player will be able to replicate the motion of hitting a ball with the club, using the selfie stick. A screen will show the complete golf pitch, where the ball will be shown as being hit with the same force with which the player swings the selfie stick. 
+The idea is to build a simulation game, based on the game of golf. And to use a normal selfie stick with a mobile phone attached at the end as a golf club, so as to give a realistic experience of playing actual golf. The player will be able to replicate the motion of hitting a ball with the club, using the selfie stick. A screen will show a golf pitch, where the ball will be shown as being hit with the same force with which the player swings the selfie stick. 
 
 How does it work?
 
